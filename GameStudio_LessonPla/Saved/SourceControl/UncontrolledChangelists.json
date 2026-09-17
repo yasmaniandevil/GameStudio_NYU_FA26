@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/BP_Settings.uasset",
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/BP/EAEQGKAXIOU1UICG1L6PBR.uasset",
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_MainButton.uasset",
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_Settings.uasset",
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_MainMenu.uasset",
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_PopUp.uasset",
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_PopUpTwo.uasset"
+			]
+		}
+	]
+}
