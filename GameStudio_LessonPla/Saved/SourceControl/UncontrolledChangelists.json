@@ -5,17 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/batni/Documents/Teaching_26_27/GameStudio_FA26_GIT/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_OptionSwitcher.uasset",
-				"C:/Users/batni/Documents/Teaching_26_27/GameStudio_FA26_GIT/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_Settings.uasset",
-				"C:/Users/batni/Documents/Teaching_26_27/GameStudio_FA26_GIT/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_PopUp.uasset",
-				"C:/Users/batni/Documents/Teaching_26_27/GameStudio_FA26_GIT/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/BP_PopUp.uasset",
-				"C:/Users/batni/Documents/Teaching_26_27/GameStudio_FA26_GIT/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_PopUp_OG.uasset",
-				"C:/Users/batni/Documents/Teaching_26_27/GameStudio_FA26_GIT/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_PopUpTwo_OG.uasset",
-				"C:/Users/batni/Documents/Teaching_26_27/GameStudio_FA26_GIT/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_PopUpParent.uasset",
-				"C:/Users/batni/Documents/Teaching_26_27/GameStudio_FA26_GIT/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/BP_Settings.uasset",
-				"C:/Users/batni/Documents/Teaching_26_27/GameStudio_FA26_GIT/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WPB_OptionsMenu.uasset",
-				"C:/Users/batni/Documents/Teaching_26_27/GameStudio_FA26_GIT/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/BBP_OptionSwitcher.uasset",
-				"C:/Users/batni/Documents/Teaching_26_27/GameStudio_FA26_GIT/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_PopUpTwo.uasset",
 				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/BP_Settings.uasset",
 				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/BP/EAEQGKAXIOU1UICG1L6PBR.uasset",
 				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_MainButton.uasset",
@@ -24,6 +13,15 @@
 				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_MainMenu.uasset",
 				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_PopUp.uasset",
 				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_PopUpTwo.uasset",
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/3I/JT6G4W8GVXZJ5S7EEWWCZA.uasset",
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/DW/VN9L3GUB9GUYBX80G2TTXH.uasset",
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/P3/J8ME0DOPVDUS97BT04V90R.uasset",
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/A5/5KSBJ8DEVLY43NL2PSJEAD.uasset",
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/BP_COIN.uasset",
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_Coin.uasset",
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/BP_PopUp.uasset",
+				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_PopUpParent.uasset",
 				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/NewAnimBlueprint.uasset"
 			]
 		}
