@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/batni/Documents/Teaching_26_27/GameStudio_FA26_GIT/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week5_Modeling/Week5.umap",
+				"C:/Users/batni/Documents/Teaching_26_27/GameStudio_FA26_GIT/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week5_Modeling/Modeling/Box_6FEFBE6D.uasset",
+				"C:/Users/batni/Documents/Teaching_26_27/GameStudio_FA26_GIT/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week5_Modeling/Modeling/Cylinder_347C84E8.uasset",
+				"C:/Users/batni/Documents/Teaching_26_27/GameStudio_FA26_GIT/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week5_Modeling/Modeling/Box_BD306F0F.uasset",
+				"C:/Users/batni/Documents/Teaching_26_27/GameStudio_FA26_GIT/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week5_Modeling/Modeling/Box_C72C537A.uasset",
 				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/ThirdPerson/Lvl_ThirdPerson.umap",
 				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/Week3/WBP_PopUp.uasset",
 				"/Users/yasmine/Documents/NYU_FA_26/GameStudio_NYU_FA26/GameStudio_LessonPla/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
